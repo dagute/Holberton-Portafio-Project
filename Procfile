@@ -1,1 +1,1 @@
-web: node template.js
+web: npm run development
