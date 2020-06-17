@@ -1,1 +1,1 @@
-web: node Home.js
+web: node template.js
